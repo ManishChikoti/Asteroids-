@@ -11,7 +11,7 @@ Recreation of the famous Retro game Asteroids using C++ ,OpenGL and Makefile whi
 
 • **Point.o :** a Point class to represent a poisiton using the x and y coordinates on the screen which will be used in further classes.
 
-• **Game.o **: this file handles the game interaction
+• **Game.o** : this file handles the game interaction
 
 •**Velocity.o :** gives and sets the speed and direction of an object given that dx , dy are provided/set.
 
